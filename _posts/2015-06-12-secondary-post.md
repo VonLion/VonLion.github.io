@@ -1,5 +1,5 @@
 ---
-title: Using Markdown
+title: Lorem Ipsum
 layout: post
 date: 2015-06-12 16:03
 ---
