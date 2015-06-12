@@ -1,6 +1,10 @@
 /* Base */
 /* ----------------------------------------------------------*/
 
+.post{
+    background: #ddd
+}
+
 h1,.h1 {font-size: 42px;}  
 h2,.h2 {font-size: 36px;}  
 h3,.h3 {font-size: 30px;}
