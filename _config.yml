@@ -1,14 +1,13 @@
 # Site settings
-title: Jeroen Reijn
-subtitle: "on Tech, Open Source and software development"
-author: Jeroen Reijn
+title: Community Analytics
+subtitle: "That's what we do"
+author: Bas van Leeuwen
 email:
-description: "Jeroen Reijn on Tech, Open Source and software development"
-disclaimer: "The opinions expressed here are entirely my own and do not reflect the opinion of my employer or that of the Apache Software Foundation."
-copyright: "© Jeroen Reijn • All rights reserved."
+description: "Actionable insights on community analytics"
+#copyright: "© - "
 baseurl: ""
-url: "http://blog.jeroenreijn.com"
-atom_path: "atom.xml"
+url: "http://blog.community-analytics.com"
+#atom_path: "atom.xml"
 
 # Build settings
 markdown: redcarpet
@@ -16,8 +15,8 @@ permalink: :year/:month/:title.html
 
 paginate: 5
 
-username: jreijn
-disqus_short_name: blogjeroenreijn
+#username: jreijn
+#disqus_short_name: blogjeroenreijn
 
 sitemap:
     exclude:
